@@ -29,4 +29,6 @@ python trial.py 2023-01-01
 Contributions are welcome! Please open an issue or pull request if you have any improvements or suggestions.
 
 ## Look's like
-<img alt="Playlist Image" scr="./Screenshot (3)"/>
+Here you can see what's playlist look like.
+
+<img src="Screenshot%20(3).png" width="600">
