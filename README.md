@@ -29,4 +29,4 @@ python trial.py 2023-01-01
 Contributions are welcome! Please open an issue or pull request if you have any improvements or suggestions.
 
 ## Look's like
-![Image alt text](Screenshot (3).png width="100")
+<img alt="Playlist Image" scr="./Screenshot (3)"/>
